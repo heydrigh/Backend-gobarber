@@ -1,0 +1,9 @@
+Welcome to the GoBarber api.
+that is an Api that manages a hypothetical barbershop.
+It can make appointments by the hour
+It can check if there is a appointment by that hour
+It can create user with encrypted password.
+It uses a relational database
+This was made using Typescript, Node, Eslint and prettier.
+you can check it out, just clone and run "dev:server"
+Enjoy!
