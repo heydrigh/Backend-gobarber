@@ -4,6 +4,7 @@ node_modules/
 build/
 tmp/
 temp/
+.coverage/
 
 tmp/*
 !tmp/.gitkeep
